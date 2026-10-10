@@ -20,7 +20,7 @@ A responsive promotional landing page and matching HTML email for a fictional ca
 3. Open `email.html` in a browser to preview the email layout.
 
 ## Live demo
-[Add your GitHub Pages link here after Part 9]
+https://avantikabelkhode6-crypto.github.io/brand-promo/
 
 
 
